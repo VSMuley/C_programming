@@ -17,4 +17,5 @@ This repository includes all the basic codes using C programming language
 13. Ternary Operator
 14.Weekly Calendar using Switch Statement
 15.Calculator using Switch Statement 
-
+16.Multiplication Table using While Loop
+17. Do - While Loop
