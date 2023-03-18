@@ -1,0 +1,41 @@
+//Created by: Vaidehi Muley
+//****Weekly Calendar using Switch Statement****//
+
+#include <stdio.h>
+
+int main() {
+
+int number;
+printf("Enter the number for which you want to check the day: ");
+scanf("\n%d", &number);
+
+switch (number){
+    
+    case 1:
+        printf("Day is Sunday");
+        break;
+    case 2:
+        printf("Day is Monday");
+        break;
+    case 3:
+        printf("Day is Tuesday");
+        break;
+    case 4:
+        printf("Day is Wednesday");
+        break;
+    case 5:
+        printf("Day is Thursday");
+        break;
+    case 6:
+        printf("Day is Friday");
+        break;
+    case 7:
+        printf("Day is Saturday");
+        break;
+    default:
+        printf("Number entered is Invalid.Please enter number within the range 1- 7");
+    
+}
+
+    return 0;
+}
