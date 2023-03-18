@@ -12,4 +12,7 @@ This repository includes all the basic codes using C programming language
 8.Boolean
 9.Comparision Operators
 10.Logical Operators
+11.If Else Statements
+12.Nested If Else Statements
+13. Ternary Operator
 
