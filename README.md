@@ -15,4 +15,6 @@ This repository includes all the basic codes using C programming language
 11.If Else Statements
 12.Nested If Else Statements
 13. Ternary Operator
+14.Weekly Calendar using Switch Statement
+15.Calculator using Switch Statement 
 
