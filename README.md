@@ -7,6 +7,9 @@ This repository includes all the basic codes using C programming language
 3.Datatypes
 4.Sizeof_operator
 5.Input_From_User
-6. Arithmetic Operators
-7. Type Conversion
+6.Arithmetic Operators
+7.Type Conversion
+8.Boolean
+9.Comparision Operators
+10.Logical Operators
 
